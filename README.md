@@ -10,7 +10,13 @@ Este es un **ChatGPT local** que se ejecuta completamente en el navegador sin ne
 
 ## Instalación y Uso  
 1. **Clona el repositorio**:  
-   ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-   cd TU_REPOSITORIO
- ```
+2. **Instala las dependecias**:
+```bash
+   npm install
+```
+3. **Ejecuta el proyecto abriendo index.html en el navegador**
+    
+## Tecnologías utilizadas
+- HTML, CSS y JavaScript
+- MLC AI Web LLM para el modelo de IA.
+- Web Workers para procesamiento eficiente.
